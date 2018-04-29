@@ -1,0 +1,53 @@
+body {
+    margin: 25px;
+    padding: 0px;
+    background-color: #485f8b2c;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #777777;
+    border-color: #dddddd;
+    line-height: 1.5;
+    width: 100%;
+}
+
+.header {
+    background-color: #ffffff;
+    border: #cccccc;
+    margin-left: -25px;
+}
+
+nav {
+    float: right;
+    margin-right: 200px;
+    transform: translate(0%,-250%);
+    padding-bottom: 0px;
+        
+    
+    
+}
+
+h1 {
+    background-color: #4aaaa5;
+    color: #eee;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    text-align: center;
+    width: 150px; 
+    height: 50px;
+    padding-top: 25px;
+    font-size: 18px;
+    margin-left: 218px;
+      
+}
+
+
+textarea {
+    width: 100%;
+}
+
+.message {
+    height: 180px;
+}
+
+
+a:link {
+    text-decoration: none;
+}
